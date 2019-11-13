@@ -21,7 +21,7 @@
 			"s12": ""
 		}
 		
-		"modules":{
+		"modules":
 		{
 			"moduleName":"Модуль 1",
 			
@@ -78,35 +78,6 @@
 			}
 			}
 			
-		}
-		
-		{
-			"moduleName":"Модуль 2",
-			"taskName": "",
-			"comments": "",
-			"design": "",
-			"frontend":
-				{
-				"pos": "",
-				"neg": ""
-				},
-			"backend":
-				{
-				"pos": "",
-				"neg": ""
-				},
-			"ios":
-				{
-				"pos": "",
-				"neg": ""
-				},
-			"android":
-				{
-				"pos": "",
-				"neg": ""
-				},
-		}
-		
 		}
 		
 	},
