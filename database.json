@@ -18,8 +18,8 @@
 			"s9": "",
 			"s10": "",
 			"s11": "",
-			"s12": ""
-		}
+			"s12": "",
+		},
 		
 		"modules":
 		{
@@ -33,24 +33,24 @@
 				"frontend":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"backend":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"ios":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"android":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
-			}
+			},
 			{
 				"taskName": "",
 				"comments": "",
@@ -58,27 +58,27 @@
 				"frontend":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"backend":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"ios":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
 				"android":
 					{
 					"pos": "",
-					"neg": ""
+					"neg": "",
 					},
-			}
+			},
 			}
 			
-		}
+		},
 		
 	},
 	
