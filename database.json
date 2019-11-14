@@ -13,7 +13,7 @@
 			""
 		],
 		
-		"modules":
+		"modules":[
 		{
 			"moduleName":"Модуль 1",
 			"taskName": "",
@@ -40,7 +40,35 @@
 				"neg": ""
 				}
 			
+		},
+		{
+			"moduleName":"Модуль 2",
+			"taskName": "",
+			"comments": "",
+			"design": "",
+			"frontend":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"backend":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"ios":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"android":
+				{
+				"pos": "",
+				"neg": ""
+				}
+			
 		}
+		]
 		
 	},
 	{
