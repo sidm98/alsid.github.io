@@ -16,56 +16,117 @@
 		"modules":[
 		{
 			"moduleName":"Модуль 1",
-			"taskName": "",
-			"comments": "",
-			"design": "",
-			"frontend":
+			"tasks":
+			[
 				{
-				"pos": "",
-				"neg": ""
+				"taskName": "Задача 1",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				},
-			"backend":
 				{
-				"pos": "",
-				"neg": ""
-				},
-			"ios":
-				{
-				"pos": "",
-				"neg": ""
-				},
-			"android":
-				{
-				"pos": "",
-				"neg": ""
+				"taskName": "Задача 2",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				}
-			
+				
+			]
 		},
 		{
 			"moduleName":"Модуль 2",
-			"taskName": "",
-			"comments": "",
-			"design": "",
-			"frontend":
+			"tasks":
+			[
 				{
-				"pos": "",
-				"neg": ""
+				"taskName": "Задача 3",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				},
-			"backend":
 				{
-				"pos": "",
-				"neg": ""
-				},
-			"ios":
-				{
-				"pos": "",
-				"neg": ""
-				},
-			"android":
-				{
-				"pos": "",
-				"neg": ""
+				"taskName": "Задача 4",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				}
+				
+			]
 			
 		}
 		]
@@ -87,58 +148,120 @@
 		"modules":[
 		{
 			"moduleName":"Модуль 3",
-			"taskName": "Задача 1",
-			"comments": "комментарий к задаче",
-			"design": "3",
-			"frontend":
+			"tasks":
+			[
 				{
-				"pos": "3",
-				"neg": "5"
+				"taskName": "Задача 5",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				},
-			"backend":
 				{
-				"pos": "2",
-				"neg": "4"
-				},
-			"ios":
-				{
-				"pos": "2",
-				"neg": "3"
-				},
-			"android":
-				{
-				"pos": "3",
-				"neg": "4"
+				"taskName": "Задача 6",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				}
-			
+				
+			]
 		},
 		{
 			"moduleName":"Модуль 4",
-			"taskName": "Задача 1",
-			"comments": "комментарий к задаче",
-			"design": "3",
-			"frontend":
+			"tasks":
+			[
 				{
-				"pos": "3",
-				"neg": "5"
+				"taskName": "Задача 7",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				},
-			"backend":
 				{
-				"pos": "2",
-				"neg": "4"
-				},
-			"ios":
-				{
-				"pos": "2",
-				"neg": "3"
-				},
-			"android":
-				{
-				"pos": "3",
-				"neg": "4"
+				"taskName": "Задача 8",
+				"comments": "комментарий",
+				"design": "1",
+				"frontend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"backend":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"ios":
+					{
+					"pos": "1",
+					"neg": "2"
+					},
+				"android":
+					{
+					"pos": "1",
+					"neg": "2"
+					}
 				}
+				
+			]
 			
-		}]
+		}
+		]
 		
 	}
 	
