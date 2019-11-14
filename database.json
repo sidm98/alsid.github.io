@@ -24,59 +24,29 @@
 		"modules":
 		{
 			"moduleName":"Модуль 1",
-			
-			"tasks":{
-			{
-				"taskName": "",
-				"comments": "",
-				"design": "",
-				"frontend":
-					{
-					"pos": "",
-					"neg": ""
-					},
-				"backend":
-					{
-					"pos": "",
-					"neg": ""
-					},
-				"ios":
-					{
-					"pos": "",
-					"neg": ""
-					},
-				"android":
-					{
-					"pos": "",
-					"neg": ""
-					}
-			},
-			{
-				"taskName": "",
-				"comments": "",
-				"design": "",
-				"frontend":
-					{
-					"pos": "",
-					"neg": "",
-					},
-				"backend":
-					{
-					"pos": "",
-					"neg": "",
-					},
-				"ios":
-					{
-					"pos": "",
-					"neg": "",
-					},
-				"android":
-					{
-					"pos": "",
-					"neg": "",
-					},
-			}
-			}
+			"taskName": "",
+			"comments": "",
+			"design": "",
+			"frontend":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"backend":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"ios":
+				{
+				"pos": "",
+				"neg": ""
+				},
+			"android":
+				{
+				"pos": "",
+				"neg": ""
+				}
 			
 		}
 		
