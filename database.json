@@ -84,7 +84,7 @@
 			""
 		],
 		
-		"modules":
+		"modules":[
 		{
 			"moduleName":"Модуль 1",
 			"taskName": "Задача 1",
@@ -111,7 +111,34 @@
 				"neg": "4"
 				}
 			
-		}
+		},
+		{
+			"moduleName":"Модуль 1",
+			"taskName": "Задача 1",
+			"comments": "комментарий к задаче",
+			"design": "3",
+			"frontend":
+				{
+				"pos": "3",
+				"neg": "5"
+				},
+			"backend":
+				{
+				"pos": "2",
+				"neg": "4"
+				},
+			"ios":
+				{
+				"pos": "2",
+				"neg": "3"
+				},
+			"android":
+				{
+				"pos": "3",
+				"neg": "4"
+				}
+			
+		}]
 		
 	}
 	
