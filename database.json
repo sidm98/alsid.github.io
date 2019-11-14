@@ -86,7 +86,7 @@
 		
 		"modules":[
 		{
-			"moduleName":"Модуль 1",
+			"moduleName":"Модуль 3",
 			"taskName": "Задача 1",
 			"comments": "комментарий к задаче",
 			"design": "3",
@@ -113,7 +113,7 @@
 			
 		},
 		{
-			"moduleName":"Модуль 1",
+			"moduleName":"Модуль 4",
 			"taskName": "Задача 1",
 			"comments": "комментарий к задаче",
 			"design": "3",
