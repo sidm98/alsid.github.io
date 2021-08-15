@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="ru">
+    <head>
+        <meta charset="utf-8">
+        <title>АЛСИД</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+		<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A863a9956e55f6b2523c4956b66c5f2367e3b2965fdab6444b2b34cbe36df1751&amp;width=500&amp;height=400&amp;lang=ru_RU&amp;scroll=true"></script>
+		<!-- CSS -->
+			<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+            <link rel="stylesheet" href="assets/css/style.css">
+   </head>
+
+   <body>
+    <header>
+       <!--ШАПКА САЙТА-->
+       <div class="header-area">
+            <div class="main-header">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+				  <div class="container-fluid">
+					<a class="navbar-brand" href="index.html">
+						<img src="assets/img/logo/logo.png" alt="">
+					</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					  <span class="navbar-toggler-icon"></span>
+					</button>
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+					  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+						<li class="nav-item dropdown">
+						  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							Изготовление пластиковых емкостей
+						  </a>
+						  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<li><a class="dropdown-item" href="#">Большие емкости до 150 кубов</a></li>
+							<li><a class="dropdown-item" href="#">Емкости по индивидуальным размерам</a></li>
+							<li><a class="dropdown-item" href="#">Футляры для ЖБИ-колец</a></li>
+						  </ul>
+						</li>
+						<li class="nav-item dropdown">
+						  <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+							Каталог
+						  </a>
+						  <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<li><a class="dropdown-item" href="#">Емкости Polyteam</a></li>
+							<li><a class="dropdown-item" href="#">Краны, отводы</a></li>
+						  </ul>
+						</li>
+						<li class="nav-item">
+						  <a class="nav-link" href="docs.html">Документация</a>
+						</li>
+						<li class="nav-item">
+						  <a class="nav-link" href="#">Контакты</a>
+						</li>
+					  </ul>
+					  <form class="d-flex">
+						<input class="form-control me-2 rounded-pill" type="search" placeholder="Поиск" aria-label="Search">
+						<button class="btn btn-outline-info rounded-pill" type="submit">🔎</button>
+					  </form>
+					</div>
+				  </div>
+				</nav>
+				<div>
+					<button href="#" class=" btn btn-md btn-outline-info rounded-pill"><i><b>+7-929-301-40-71</b></i></button>
+					<button href="#" class=" btn btn-md btn-outline-info rounded-pill"><i><b>alsid55@yandex.ru</b></i></button>
+				</div>
+            </div>
+       </div>
+        <!-- Header End -->
+    </header>
+<main>
+
+<div class="container" id="mymap"></div>
+<table class="table table-sm table-success table-striped table-responsive" style="max-width:100%;">
+  <thead>
+    <tr>
+      <th scope="col">Реквизиты<br>организации</th>
+	  <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row" class="h6">Наименование</th>
+      <td>ООО «АЛСИД»</td>
+
+    </tr>
+    <tr>
+      <th scope="row" class="h6">Юридический<br>адрес</th>
+      <td>644065, г. Омск, ул. 3-я<br>Заводская, д.20, оф.22</td>
+
+    </tr>
+    <tr>
+      <th scope="row" class="h6">Банк</th>
+      <td>АО «БКС Банк»<br>г. Москва</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">Расчетный счет</th>
+      <td>4070 2810 0004<br>5000 0058</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">Корр. счет</th>
+      <td>3010 1810 1452<br>5000 0631</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">БИК</th>
+      <td>044 525 631</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">Тел./факс</th>
+      <td>8 929 301<br>40 71</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">E-mail</th>
+      <td>Alsid55@yandex.ru</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">Директор</th>
+      <td>Сидоров<br>Алексей Васильевич</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ИНН/КПП</th>
+      <td>550 124 502 5 /<br>550 101 001</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ОГРН</th>
+      <td>1125 5430<br>5679 2</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ОКПО</th>
+      <td>0948 6228</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ОКВЭД</th>
+      <td>51.5; 51.70;<br>51.3</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ОКОПФ</th>
+      <td>65</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">ОКТМО</th>
+      <td>5270 1001</td>
+    </tr>
+	<tr>
+      <th scope="row" class="h6">Регистрация<br>в ЕГРЮЛ</th>
+      <td>12.11.2012</td>
+    </tr>
+  </tbody>
+</table>
+</main>
+
+   <footer></footer>
+   
+
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </body>
+	
+</html>
