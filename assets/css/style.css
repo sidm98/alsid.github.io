@@ -1,2 +1,20 @@
 
 body{background:#E6FCFF}
+
+
+.nav-link{
+ margin-right: 1em !important;
+ background: #e6fcff;
+}
+.nav-link:hover{
+ background: #f4f4f4;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
+.navbar-toggler{
+  background:#fff !important;
+}
+.navbar-collapse{
+ justify-content: flex-end;
+}
