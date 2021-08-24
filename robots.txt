@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: https://alsid.ru/sitemap
+Host: alsid.ru
+Allow: /
+Disallow: /
+Sitemap: https://alsid.ru/sitemap.xml
+
+
+
